@@ -6,6 +6,11 @@ __pycache__/
 # C extensions
 *.so
 
+# Scripts
+killport
+
+.idea
+
 # Distribution / packaging
 .Python
 build/
